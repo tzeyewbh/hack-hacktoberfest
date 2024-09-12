@@ -153,6 +153,7 @@ Thanks!
 - [Randomqwerty](https://github.com/Randomqwerty)
 - [githubUser90](https"//github.com/githubUser90)
 - [Sarthak Bhagat](https://github.com/sarthak268)
+- [paradoxpj](https://github.com/paradoxpj)
 - [anshuldawar](https://github.com/anshuldawar)
 - [MaquicoONC](https://github.com/maquicoONC)
 - [Sudhanshu](https://github.com/sudhanshu16)
