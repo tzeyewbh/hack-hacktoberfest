@@ -95,6 +95,7 @@ Thanks!
 - [igcigc](https://github.com/igcigc)
 - [nightrainlily](https://github.com/nightrainlily)
 - [lilyholcombe](https://github.com/lilyholcombe)
+- [cl1ent](https://github.com/cl1ent)
 - [mayank26saxena](https://github.com/mayank26saxena)
 - [ByronGeorge](https://github.com/ByronGeorge)
 - [carterschieffer](https://github.com/carterschieffer)
