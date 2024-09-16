@@ -78,6 +78,7 @@ Thanks!
 - [sidharthssingh](https://github.com/sidharthssingh)
 - [jmaicaaan](https://github.com/jmaicaaan)
 - [rwhitworth](https://github.com/rwhitworth)
+- [angelobarbano](https://github.com/angelobarbano)
 - [vaidic](https://github.com/vaidic)
 - [YoYoHoneySinghhh](https://github.com/YoYoHoneySinghhh)
 - [xRahul](https://github.com/xRahul)
