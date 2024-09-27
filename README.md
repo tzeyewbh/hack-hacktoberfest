@@ -135,6 +135,7 @@ Thanks!
 - [sanushen](https://github.com/sanushen)
 - [FranklinWaller](https://github.com/FranklinWaller)
 - [paulolimac](https://github.com/paulolimac)
+- [jajakiez](https://github.com/jajakiez)
 - [CodeWarri0r 2017](https://github.com/CodeWarri0r)
 - [whysogreen](https://github.com/whysogreen)
 - [earlpast](https://github.com/earlpast)
