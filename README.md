@@ -69,6 +69,7 @@ Thanks!
 - [ArkTrevelyan](https://github.com/ArkTrevelyan)
 - [Epenance](https://github.com/epenance)
 - [Link270](https://github.com/Link270)
+- [Anuj](https://github.com/anujraval24)
 - [codecofee19](https://github.com/codecofee19)
 - [thvardhan](https://github.com/thvardhan)
 - [Natsu6767](https://github.com/Natsu6767)
